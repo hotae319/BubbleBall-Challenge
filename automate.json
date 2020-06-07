@@ -1,0 +1,25 @@
+﻿{
+  "classicLevelNumber": 2,
+  "logFile": "bb.log",
+  "physicsDrawMode": "normal",
+  "enableManualControl": false,
+  "enableScreenshots": false,
+  "screenshotDirectory": "./screenshots/",
+  "screenshotFrameFrequency": 20,
+  "timeoutMillis": 10000,
+  "stopWhenBallsExitScreen": true,
+  "objectSetup": [
+    {
+      "unique": "RRY3",
+      "x": 210,
+      "y": 235,
+      "r": 0
+    },
+    {
+      "unique": "5KUO",
+      "x": 200,
+      "y": 240,
+      "r": 0
+    }
+  ]
+}
